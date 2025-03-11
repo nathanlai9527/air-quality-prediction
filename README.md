@@ -2,6 +2,10 @@
 **Project Type:** Independent ML Project  
 **Tools:** Python, scikit-learn, XGBoost, Altair, AWS  
 **Date:** March 2025  
+---
+## 📓 Project Notebook
+
+➡️ [View Jupyter Notebook](./Air_Quality_Prediction_for_Major_Cities_MA.ipynb)
 
 ---
 
